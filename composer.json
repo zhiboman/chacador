@@ -1,0 +1,10 @@
+{
+    "name": "daniel/checador-huella",
+    "authors": [
+        {
+            "name": "daniel barreras",
+            "email": "zhiboman@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
